@@ -37,9 +37,6 @@ No external wiring needed - everything is on board.
 1. Download `firmware.bin` from releases
 2. Flash using [ESP Web Flasher](https://esp.huhn.me/) or esptool:
 
-```
-esptool.py --chip esp32 --port COM3 --baud 460800 write_flash 0x10000 firmware.bin
-```
 
 ## Usage
 
