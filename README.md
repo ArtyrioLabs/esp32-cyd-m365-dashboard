@@ -66,13 +66,6 @@ No external wiring needed - everything is on board.
 - All 10 cell voltages
 - Cell balance indicator
 
-## Compatibility
-
-Tested with:
-- Xiaomi M365
-- Xiaomi M365 Pro
-- Custom firmware (ScooterHacking)
-
 ## Libraries
 
 - TFT_eSPI
