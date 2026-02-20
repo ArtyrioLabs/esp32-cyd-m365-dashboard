@@ -45,27 +45,6 @@ No external wiring needed - everything is on board.
 3. Dashboard auto-connects via Bluetooth
 4. Tap screen to switch between pages
 
-## Screens
-
-**Main Screen**
-- Speed (big number in center)
-- Battery bar and percentage
-- Voltage, current, power
-- ESC and battery temperature
-- ODO, trip, time
-- Range, average speed, max speed
-
-**Stats Screen**
-- Power graph (last 60 seconds)
-- Current graph (last 60 seconds)
-- Real-time values
-
-**Battery Screen**
-- Battery percentage
-- Voltage, current, power, capacity
-- All 10 cell voltages
-- Cell balance indicator
-
 ## Libraries
 
 - TFT_eSPI
